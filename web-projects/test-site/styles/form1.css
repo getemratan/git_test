@@ -1,0 +1,9 @@
+fieldset {
+		padding: 0 1em 1em 1em;
+}
+legend {
+		font-family: cursive;
+		color: blue;
+		padding: 1em;
+		font-size: 2em;
+}
